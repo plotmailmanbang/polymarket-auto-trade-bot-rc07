@@ -1,4 +1,4 @@
-# 
+# vip Polymarket Addon | prediction-market-scanning + market-making offers the most advanced Polymarket addon, with prediction-market-scanning and market-making. Ideal for
 
 
 
